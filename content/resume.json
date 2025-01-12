@@ -1,0 +1,186 @@
+{
+    "lastUpdated": "2024-01-12",
+    "basics": {
+        "name": "Ertuğrul Efe Coşkun",
+        "title": "Software Developer & Engineer",
+        "summary": "Experienced software developer with a passion for creating efficient and elegant solutions.",
+        "location": {
+            "city": "Istanbul",
+            "country": "Turkey"
+        },
+        "profiles": []
+    },
+    "sections": [
+        {
+            "id": "experience",
+            "title": "Professional Experience",
+            "items": [
+                {
+                    "title": "Backend Developer",
+                    "organization": "iUGO Tech.",
+                    "location": "Istanbul, Turkey",
+                    "period": "2022 - Present",
+                    "description": "Backend development with modern technologies",
+                    "highlights": [
+                        "Integrated various tracking device brands into the system by creating parser applications.",
+                        "Developed multiple gRPC services, GraphQL queries, and API endpoints for seamless product communication.",
+                        "Enhanced system performance through writing benchmark/unit tests and debugging processes.",
+                        "Developed multiple rule engines for detecting driving and region violations, utilizing Redis stream data from tracking devices. These engines trigger actions such as sending emails, creating/resolving tickets in the system or creating violations.",
+                        "Guided team members on writing clean, efficient code by reviewing pull requests and providing mentorship on solving software development challenges."
+                    ],
+                    "technologies": [
+                        "Go",
+                        "Redis",
+                        "PostgreSQL",
+                        "Docker",
+                        "gRPC",
+                        "GraphQL",
+                        "Cassandra",
+                        "nginx"
+                    ]
+                },
+                {
+                    "title": "Backend Developer",
+                    "organization": "Akinon",
+                    "location": "Istanbul, Turkey",
+                    "period": "2022",
+                    "description": "",
+                    "highlights": [
+                        "Developed new features and fixed bugs for Omnitron (an omnichannel operation management application) and Whippy-ware (a storage management application) using Python."
+                    ],
+                    "technologies": [
+                        "Python",
+                        "Django Framework",
+                        "Django Rest Framework",
+                        "Docker",
+                        "PostgreSQL",
+                        "Redis"
+                    ]
+                },
+                {
+                    "title": "Software Engineer",
+                    "organization": "Turkcell",
+                    "location": "Istanbul, Turkey",
+                    "period": "2020 - 2022",
+                    "description": "",
+                    "highlights": [
+                        "Led database conversion from MSSQL to PostgreSQL.",
+                        "Developed backend solutions for DAMA (Store Management Application) using C#.",
+                        "Implemented background jobs in C# utilizing the Hangfire Framework.",
+                        "Contributed to backend development for OneNT Mobile and Tower Installation modules, written in C#."
+                    ],
+                    "technologies": [
+                        "C#",
+                        ".NET",
+                        "Hangfire",
+                        "PostgreSQL",
+                        "MSSQL",
+                        "TypeScript"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "education",
+            "title": "Education",
+            "items": [
+                {
+                    "title": "Bachelor of Science in Computer Science and Engineering",
+                    "organization": "Marmara University",
+                    "location": "Istanbul, Turkey",
+                    "period": "2015 - 2020",
+                    "description": "Focus on software engineering and computer science fundamentals",
+                    "highlights": [
+                        "GPA: 3.10"
+                    ],
+                    "technologies": []
+                }
+            ]
+        },
+        {
+            "id": "skills",
+            "title": "Skills",
+            "categories": [
+                {
+                    "name": "Programming Languages",
+                    "skills": [
+                        "JavaScript",
+                        "TypeScript",
+                        "Python",
+                        "Java",
+                        "C#",
+                        "Go",
+                        "SQL"
+                    ]
+                },
+                {
+                    "name": "Frameworks & Libraries",
+                    "skills": [
+                        "React",
+                        "Django",
+                        "Django Rest Framework",
+                        "Hangfire"
+                    ]
+                },
+                {
+                    "name": "Tools & Technologies",
+                    "skills": [
+                        "Git",
+                        "Docker",
+                        "AWS",
+                        "MongoDB",
+                        "PostgreSQL",
+                        "Redis",
+                        "Cassandra",
+                        "gRPC",
+                        "GraphQL",
+                        "nginx"
+                    ]
+                },
+                {
+                    "name": "Soft Skills",
+                    "skills": [
+                        "Problem Solving",
+                        "Team Leadership",
+                        "Communication"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "certifications",
+            "title": "Certifications",
+            "items": [
+                {
+                    "name": "Machine Learning Crash Course",
+                    "issuer": "(Global AI Hub, Deep Learning Turkey & Google Developers)",
+                    "date": "2020"
+                },
+                {
+                    "name": "Data Scientist with Python Track",
+                    "issuer": "(DataCamp)",
+                    "date": "2020"
+                }
+            ]
+        },
+        {
+            "id": "languages",
+            "title": "Languages",
+            "items": [
+                {
+                    "language": "Turkish",
+                    "proficiency": "Native"
+                },
+                {
+                    "language": "English",
+                    "proficiency": "Professional"
+                }
+            ]
+        }
+    ],
+    "settings": {
+        "showDownloadButton": true,
+        "allowPrint": true,
+        "showProfileLinks": false
+    }
+}
